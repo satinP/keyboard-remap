@@ -1,5 +1,6 @@
 # keyboard-remap
-JSON file with remaped shortcuts focused for browser and vscode navigations with an macOS layout keyboard on Windows OS
+
+This must to be used with [PowerToys](https://github.com/microsoft/PowerToys) software.
 
 To use you go to `C:\Users\{username}\AppData\Local\Microsoft\PowerToys\Keyboard Manager` and replace the default.json file. 
 You probbably want to keep a backup from the original one.
